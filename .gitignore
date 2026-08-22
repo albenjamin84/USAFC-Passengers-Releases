@@ -1,0 +1,6 @@
+# Public release repository. Source code remains private.
+
+bin/
+obj/
+*.user
+*.suo
