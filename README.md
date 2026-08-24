@@ -6,11 +6,28 @@
 
 > Official public release-notes, installer, and update channel for **USA Flight Club Passengers**.
 
-## Design direction
+## Application preview
 
-![USA Flight Club Passengers dashboard concept](assets/readme/concept.png)
+The screenshots below show the current product direction. Visual details may change before a production installer is published.
 
-*Concept image — visual direction only. It does not represent a currently released build or confirm that every illustrated feature is available.*
+<p align="center">
+  <img src="assets/readme/dashboard.png" alt="USA Flight Club Passengers dashboard" width="760">
+</p>
+
+| | |
+|---|---|
+| ![Create Company](assets/readme/Create%20Company.png) | ![Flight Planner](assets/readme/Flight%20Planner.png) |
+| **Create Company** | **Flight Planner** |
+| ![Passengers](assets/readme/Passengers.png) | ![Boarding](assets/readme/Boarding.png) |
+| **Passenger Manifest** | **Boarding Operations** |
+| ![Dispatch Center](assets/readme/dispatch%20Center.png) | ![Fleet](assets/readme/fleet.png) |
+| **Dispatch Center** | **Fleet Management** |
+| ![Career](assets/readme/Career.png) | ![Achievements](assets/readme/Achievements.png) |
+| **Pilot Career** | **Achievements** |
+| ![Finances](assets/readme/Finances.png) | ![Transactions](assets/readme/Transactions.png) |
+| **Finances** | **Transaction History** |
+| ![Settings](assets/readme/Settings.png) | |
+| **Settings** | |
 
 ## About this repository
 
