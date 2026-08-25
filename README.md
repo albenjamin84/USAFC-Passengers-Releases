@@ -21,13 +21,21 @@ The screenshots below show the current product direction. Visual details may cha
 | ![Passengers](assets/readme/Passengers.png) | ![Boarding](assets/readme/Boarding.png) |
 | **Passenger Manifest** | **Boarding Operations** |
 | ![Dispatch Center](assets/readme/dispatch%20Center.png) | ![Fleet](assets/readme/fleet.png) |
-| **Dispatch Center** | **Fleet Management** |
+| **Dispatch Center · Virtual Cabin, boarding readiness, and flight controls** | **Fleet Management** |
 | ![Career](assets/readme/Career.png) | ![Achievements](assets/readme/Achievements.png) |
 | **Pilot Career** | **Achievements** |
 | ![Finances](assets/readme/Finances.png) | ![Transactions](assets/readme/Transactions.png) |
 | **Finances** | **Transaction History** |
 | ![Settings](assets/readme/Settings.png) | |
 | **Settings** | |
+
+## Current application capabilities
+
+- **Dispatch Virtual Cabin** — one live place for boarding readiness, passenger load progress, Flight Controls, cabin phase, and the active company flight list.
+- **Performance-based passenger scoring** — passenger experience is assessed across each phase using taxi handling, vertical rates, weather/turbulence, MSFS stall and overspeed warnings, go-arounds, landing quality, fuel reserve, and cabin service.
+- **Persistent aircraft condition** — locally tracked airframe and engine hours, cycles, tires, brakes, oil condition, inspections, defects, maintenance requirements, and maintenance costs.
+- **Flight Review and replay** — completed flights retain phase scorecards, timestamped operational events, a score breakdown, and a saved map replay in Flight History.
+- **Local-first data** — companies, pilots, finances, achievements, active flights, Flight Reviews, and backups stay on the user's computer.
 
 ## About this repository
 
